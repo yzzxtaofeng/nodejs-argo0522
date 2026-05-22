@@ -1,6 +1,4 @@
 name: Build and Push Docker Image
-
-于:
   push:
     分支: [ main ]
     paths:
